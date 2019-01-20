@@ -18,6 +18,11 @@ import project3.OrchestraPane;
 import project3.ArtEventPane;
 import project3.StatisticsPane;
 
+/**
+ *
+ * @author Michael Harris Jr
+ */
+
 public class TestEventGUI extends Application {
     
     @Override  // javafx.application.Application.start()
