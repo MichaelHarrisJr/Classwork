@@ -17,6 +17,17 @@ public class Palindrome {
      * @param args the command line arguments
      */
     
+    
+    /*Ask the user to input a line of text (up to 80 characters) from the keyboard.
+
+If the only input is the digit or word zero (that is, either 0 or zero) then quit;
+
+otherwise
+
+Echo the input text back to the user EXACTLY as entered.
+
+Tell the user whether the input IS A PALINDROME or IS NOT A PALINDROME.*/
+    
     public static void main(String[] args) {
     //Not accept numbers
     String y = "";
